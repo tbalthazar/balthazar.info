@@ -1,0 +1,64 @@
+==================================================================
+https://keybase.io/tb
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://balthazar.info
+  * I am tb (https://keybase.io/tb) on keybase.
+  * I have a public key with fingerprint 8AB7 526A B42C CF5C 6F0E  7DB2 9188 D4C8 1EA9 5107
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "8ab7526ab42ccf5c6f0e7db29188d4c81ea95107",
+            "host": "keybase.io",
+            "key_id": "9188d4c81ea95107",
+            "uid": "73369dd8ad654265b84d122c201ed700",
+            "username": "tb"
+        },
+        "service": {
+            "hostname": "balthazar.info",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1407792985,
+    "expire_in": 157680000,
+    "prev": "4cef3aac2a3d477827d90a689d3edcf64107caa1357de6f077e7cb15aef72682",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owFtUWtIFFEU3vWxkVQqVvaSZLZ+GLLOzM7MnV0oix4aFpgPiBZa78y9u07ZzDo7
+7uouZkUvJTJYsCeE4T/7EbQEQtlKRtD+ME2C7KUkkkSJPcFHdkfsX/fP4ZzvO985
+3z1XVqZaUqzX28pH8g53lFuTiSnJUjkJUJSSNNREuaPUcbwYfIrqx3pAV1SDclMi
+lADPClDiWFn28bLgozFAEutiRBFxsshg6OIZGlCFVK0WNDuIjASD2KFopEYSr4JI
+9T/8hkUAOJ2CCyERIoHnWIGXRA4xLCuzNIMRoGmTGMS6Ck9gwjYkqrmQInlIkbG5
+rTl0CZNgnVELI1B3KKrPHB7QNUOTtTqC1RpGIOg2e42mgEkOY8m7JOOVFBUR06Qj
+hPWgoqmUmyFM2VBMXYajAXCxLpEvpHBjQNGxVzEZPBBEmjxzDg4RSU7GPieEMgud
+iANAZAFy0VAQXciJkewTOGJbhpBx8gBh8o8AYCBLDA+xD7CCyFKmsXpVo9wcWRP6
+iWRQ8avQaNAx1ZzRat2UZrGmWGzpKebdLBnLs/5dc921ZQvavvFWe8fG5NP1iQF7
+2/mam9jxxb/jw4j1zNzWsh8jOwMfq4fG383yM0fOliTqv3VV9U63XLbm9P5uL37Q
+M30jMdtydHVno7TrxYZ46USa9Go+9yDM/xTuzizNtR0oiG0uvpDx9vafQ71zP7Ps
+a2xNqeUSqBSTtnymMbv/l6Nr70Knnh1/s+Kkngzs3z4vxs7ZhyeHmjsH1TuDD+si
+7TcjRTV7hKyLz/3BCMqLf60qmcr8vGXmXvdE6NnjhUtqqlDRN+oZhvHXY2Db3e+j
+4dFYdOLJKSVcNrDWc3os/VjBy+gjId7TVc17iop3x3LSJSuzau7+1f4Kz/u+W0WZ
+fwE=
+=lZCT
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tb
+
+==================================================================

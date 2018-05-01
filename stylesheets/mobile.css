@@ -1,0 +1,19 @@
+header, section, h1, h2 {
+  margin-bottom: 1.5em;
+}
+
+header {
+  margin-bottom: 2.5em;
+}
+
+header:after {
+  content: ".";
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden;
+}
+
+a.avatar {
+  margin-top: 35px;
+}
